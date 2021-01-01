@@ -25,6 +25,6 @@ for (p,q,r,s) in full_body:
             # Find the eyes within the face and draw a rectangle
             cv2.rectangle(roi_color,(ex,ey),(ex+ew,ey+eh),(0,0,255),2)
 
-cv2.imshow('ronaldo',img)
+cv2.imshow('Face Detection Model',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
