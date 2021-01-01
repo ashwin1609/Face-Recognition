@@ -1,1 +1,3 @@
-# Face_Recognition_Model
+# Face Detection and Recognition using OpenCV
+
+## Face_detect.py
